@@ -1,0 +1,17 @@
+ADMINISTRADOR
+
+
+usuario: admin@admin
+
+contraseña: admin
+
+
+
+
+
+CLIENTE
+
+
+usuario: lachiqui@client
+
+contraseña: lachiqui
